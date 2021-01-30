@@ -1,4 +1,6 @@
- .directory
- /.idea/*
- /out/*
- /src/*
+**/.idea/**
+**/out/**
+**/src/**
+**/*.iml/**
+**/.idea/**
+.directory

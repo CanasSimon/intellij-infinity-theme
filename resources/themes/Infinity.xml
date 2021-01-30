@@ -3,7 +3,7 @@
         <option name="ADDED_LINES_COLOR" value="50fa7b" />
         <option name="ANNOTATIONS_COLOR" value="1e2129" />
         <option name="CARET_COLOR" value="cccccc" />
-        <option name="CARET_ROW_COLOR" value="494e5c" />
+        <option name="CARET_ROW_COLOR" value="44475a" />
         <option name="CONSOLE_BACKGROUND_KEY" value="1e2129" />
         <option name="DELETED_LINES_COLOR" value="ff5554" />
         <option name="DOC_COMMENT_LINK" value="81BAF1" />
@@ -1161,7 +1161,7 @@
         </option>
         <option name="OC.CONDITIONALLY_NOT_COMPILED">
             <value>
-                <option name="FOREGROUND" value="3f4b6f" />
+                <option name="FOREGROUND" value="6272a4" />
             </value>
         </option>
         <option name="OC.DIRECTIVE">

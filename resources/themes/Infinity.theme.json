@@ -59,7 +59,7 @@
             "acceleratorSelectionForeground": "#81BAF1"
         },
         "ComboBox": {
-            "modifiedItemForeground": "#000000",
+            "modifiedItemForeground": "#81BAF1",
             "ArrowButton": {
                 "background": "secondaryBackground",
                 "nonEditableBackground": "secondaryBackground",
@@ -97,11 +97,11 @@
         },
         "FileColor": {
             "Blue": "#8be9fd",
-            "Green": "#63667E",
+            "Green": "#50fa7b",
             "Orange": "#ffb86c",
             "Yellow": "secondaryBackground",
-            "Rose": "#81BAF1",
-            "Violet": "#0078f1"
+            "Rose": "#ff79c6",
+            "Violet": "#bd93f9"
         },
         "Label": {
             "foreground": "primaryForeground",
