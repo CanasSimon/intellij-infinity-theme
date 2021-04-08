@@ -12,7 +12,7 @@
     ]]>
     </change-notes>
 
-    <idea-version since-build="203.5600" until-build="203.*"/>
+    <idea-version since-build="203.5600" until-build="220.*"/>
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
